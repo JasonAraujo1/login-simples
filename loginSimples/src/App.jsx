@@ -1,5 +1,7 @@
 import { Route, Routes } from 'react-router'
 import './App.css'
+import Home from './home'
+import Login from './login'
 
 
 export default function App() {
